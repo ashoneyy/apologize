@@ -965,7 +965,7 @@
                 return {
                     bg_img: "https://www.mbian.com/mbian/2022/05/07/51e67eb5cdd1b94bae621936ba9bcd16.png",
                     img: "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F202003%2F15%2F20200315101825_gmdhe.gif&refer=http%3A%2F%2Fc-ssl.duitang.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1715184459&t=f887e99aa0cdd92da3b8e1071b57253c",
-                    mp3Src: "./audio/kanz.mp3",
+                    mp3Src: "https://ashoneyy.github.io/apologize/static/kanz.mp3",
                     no_data: "要解答",
                     no_list: "这是一首藏头诗#要竖着看哦！",
                     text: "一首小诗❤️",
